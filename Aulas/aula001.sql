@@ -1,7 +1,7 @@
 create database cadastro;
 use cadastro;
 
--- drop database cadastro; --> deleta o banco de dados e os dados dentro dele completamente
+drop database cadastro; -- deleta o banco de dados e os dados dentro dele completamente
 
 create table pessoas (
 	nome varchar(30),
