@@ -1,10 +1,10 @@
 # MYSQL: BÁSICO AO INTERMEDIÁRIO
 
-> Aulas do Curso em Vídeo com total foco em MySQL
+> Aulas do Curso em Vídeo com total foco em MySQL e estudos durante os 3 anos da ETEC
 
 ---
 
-## Etapas do Aprendizado
+## Etapas do Aprendizado Curso em Vídeo
 
 - **Mundo 1** Fundamentos: Melhorando a estrutura do banco de dados
 - **Mundo 2** Inserindo Dados na Tabela: INSERT INTO
